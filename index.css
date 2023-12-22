@@ -3,7 +3,7 @@
 :root {
     --color-terminal: #292b36;
     --borde-redondo: 4px;
-}
+} 
 
 * {
     font-family: 'Source Code Pro', monospace;
